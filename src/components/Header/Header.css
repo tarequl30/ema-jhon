@@ -1,0 +1,39 @@
+nav{
+    background-color: black;
+    line-height: 40px;
+    font-size: 20px;
+
+}
+.Header img{
+    margin-left: 20px;
+   
+    margin-top: 0px;
+}
+p{
+    display: flex;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px; 
+    padding: 5px; 
+    margin-left: 20px;
+}
+nav a:hover{
+    background-color: gray;
+}
+
+input{
+    padding: 10px 200px;
+   
+    border-color: orange;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.searchBtn{
+    background-color:orange;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
