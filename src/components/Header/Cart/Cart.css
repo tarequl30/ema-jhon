@@ -2,3 +2,11 @@
     align-items: center;
     margin-left: 100px;
 }
+.checkoutBtn{
+    background-color:orange;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 10px;
+    margin-bottom: 7px;
+    cursor: pointer;
+}
